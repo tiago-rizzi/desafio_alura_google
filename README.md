@@ -11,3 +11,5 @@ Para realizar teste, deixei planilhas para execução do mesmo.
 obs. instrução demostrada no video de apresentação.
 Seu objetivo é analisar esses dados e fornecer um resumo das principais informações
 para ajudar a equipe de gerenciamento a tomar decisões estratégicas
+![tela principal](https://github.com/tiago-rizzi/desafio_alura_google/assets/169553251/1f4d026d-593f-40bb-8cc5-e053465c6c0e)
+![resultado](https://github.com/tiago-rizzi/desafio_alura_google/assets/169553251/8d4ebb57-2702-4d77-a820-50f69f40fb06)
