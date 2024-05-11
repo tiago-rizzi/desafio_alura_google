@@ -7,6 +7,6 @@ Escolha foi de realizar página web utilizando Python e Gemini
 
 Para realizar teste, deixei planilhas para execução do mesmo.
 
-pront
+obs. instrução demostrada no video de apresentação.
 Seu objetivo é analisar esses dados e fornecer um resumo das principais informações
 para ajudar a equipe de gerenciamento a tomar decisões estratégicas
