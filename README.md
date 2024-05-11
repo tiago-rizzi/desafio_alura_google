@@ -1,7 +1,8 @@
-Projeto realizado a fim de realizar análise de planilhas.
-Com ajuda de IA do Google.
-Realiza este árduo trabalho que muitas vezes pessoas levam longo período para entender e executar a analise. 
-Com ele pode facilitar e ganhar tempo com as tarefas agregando maior valor na agilidade.
+Desenvolvi um projeto com o objetivo de simplificar a análise de planilhas, aproveitando a poderosa inteligência artificial do Google. Reconheço o desafio que muitas vezes enfrentamos ao tentar compreender e realizar análises detalhadas de dados, um processo que pode consumir um tempo significativo.
+
+Com esta solução, busco proporcionar uma maneira mais eficiente e ágil de realizar essas análises. Ao utilizar nossa plataforma, você poderá ganhar ritmo nas suas tarefas, enquanto agrega maior valor aos resultados obtidos. Em vez de me dedicar a tarefas demoradas e complexas, você poderá focar sua energia em interpretar os insights gerados pela análise, tomando decisões mais informadas e estratégicas para o seu negócio.
+
+Acredito que essa abordagem inovadora pode transformar a maneira como lidamos com análises de dados, tornando o processo mais acessível e produtivo para todos os envolvidos. Experimente agora e descubra como podemos simplificar e acelerar suas análises de planilhas, permitindo que você alcance seus objetivos com maior eficiência e precisão.
 
 Escolha foi de realizar página web utilizando Python e Gemini
 
