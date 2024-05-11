@@ -1,12 +1,12 @@
 Projeto realizado a fim de realizar análise de planilhas.
-Com ajuda de IA Google, realizando este árduo trabalho, que muitas 
-Às vezes, as pessoas levam longo período para entender as mesmas para análise. 
-Com ele pode facilitar e ganhar tempo com as análises.
+Com ajuda de IA do Google.
+Realiza este árduo trabalho que muitas vezes pessoas levam longo período para entender e executar a analise. 
+Com ele pode facilitar e ganhar tempo com as tarefas agregando maior valor na agilidade.
 
 Escolha foi de realizar página web utilizando Python e Gemini
 
-para realizar teste, deixei plaquinhas para execução do mesmo.
+Para realizar teste, deixei planilhas para execução do mesmo.
 
-
+pront
 Seu objetivo é analisar esses dados e fornecer um resumo das principais informações
- para ajudar a equipe de gerenciamento a tomar decisões estratégicas
+para ajudar a equipe de gerenciamento a tomar decisões estratégicas
